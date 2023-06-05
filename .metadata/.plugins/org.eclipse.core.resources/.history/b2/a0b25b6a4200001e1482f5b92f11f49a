@@ -1,0 +1,12 @@
+package org.opentutorials.javatutorials.variables;
+
+public class String {
+
+	public static void main(java.lang.String[] args) {
+		
+		String first = "Hello";
+		first = "coding";
+
+	}
+
+}

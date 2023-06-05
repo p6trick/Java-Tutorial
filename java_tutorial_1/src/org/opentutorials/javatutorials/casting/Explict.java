@@ -1,0 +1,15 @@
+package org.opentutorials.javatutorials.casting;
+
+public class Explict {
+
+	public static void main(String[] args) {
+		
+		float a = (float)100.0;
+		
+		int b = (int)100.0F;
+		
+		System.out.println(a); System.out.println(b);
+
+	}
+
+}

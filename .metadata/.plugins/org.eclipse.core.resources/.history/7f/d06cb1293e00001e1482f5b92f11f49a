@@ -1,0 +1,13 @@
+package org.opentutorials.javatutorials.numberstring;
+
+public class String {
+
+	public static void main(java.lang.String[] args) {
+		
+		System.out.println('a');
+		System.out.println("why");
+		System.out.println("생활코딩");
+		System.out.println("d");
+	}
+
+}
